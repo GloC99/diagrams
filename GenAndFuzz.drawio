@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T11:25:25.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SbsPhG2NkK8fGCp6sSSA" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T12:03:46.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="edDsbQ6KYw791Swpm6iO" version="23.1.5" type="github">
   <diagram name="Page-1" id="amzALCv6bI6qjFAQoZQV">
-    <mxGraphModel dx="2117" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,9 +96,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rOSCQlMySwnuyHpSkQuA-31" target="rOSCQlMySwnuyHpSkQuA-38" edge="1">
+        <mxCell id="rOSCQlMySwnuyHpSkQuA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rOSCQlMySwnuyHpSkQuA-31" target="ftJMKh0BDE4pn1SkjYPP-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="200" as="targetPoint" />
+            <mxPoint x="470" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOSCQlMySwnuyHpSkQuA-42" vertex="1" connectable="0">
@@ -106,36 +106,35 @@
             <mxPoint x="-3" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-31" value="Crash, hangs, semi crashes, miscompilations and logical bugs found?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rOSCQlMySwnuyHpSkQuA-31" value="Mismatches found?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="342.5" width="220" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOSCQlMySwnuyHpSkQuA-38" target="rOSCQlMySwnuyHpSkQuA-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzA6qbHo2A6-y_BBXeDh-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOSCQlMySwnuyHpSkQuA-36" vertex="1" connectable="0">
-          <mxGeometry x="-0.2417" y="3" relative="1" as="geometry">
-            <mxPoint x="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOSCQlMySwnuyHpSkQuA-38" target="rOSCQlMySwnuyHpSkQuA-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CzA6qbHo2A6-y_BBXeDh-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOSCQlMySwnuyHpSkQuA-37" vertex="1" connectable="0">
-          <mxGeometry x="-0.4407" y="3" relative="1" as="geometry">
-            <mxPoint x="5" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-38" value="&amp;nbsp;crashwalk will triage the bugs and help deciding which ones are reported first&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="470" y="285" width="155.75" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-39" value="Report it to relevant development team" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-40" value="Use crashwalk to see if the bug is a vulneribility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460.75" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ftJMKh0BDE4pn1SkjYPP-1" value="P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ftJMKh0BDE4pn1SkjYPP-3" target="ftJMKh0BDE4pn1SkjYPP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ftJMKh0BDE4pn1SkjYPP-3" target="ftJMKh0BDE4pn1SkjYPP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ftJMKh0BDE4pn1SkjYPP-3" target="ftJMKh0BDE4pn1SkjYPP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-3" value="Triage with Crashwalk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-5" value="crashes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-6" value="hangs" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="651" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-7" value="logical error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="497.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
