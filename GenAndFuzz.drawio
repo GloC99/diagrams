@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T06:06:23.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MXQH-D3l92HqACbA4F8Q" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T11:25:25.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SbsPhG2NkK8fGCp6sSSA" version="23.1.5" type="github">
   <diagram name="Page-1" id="amzALCv6bI6qjFAQoZQV">
-    <mxGraphModel dx="1877" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="rOSCQlMySwnuyHpSkQuA-6" value="Input Seeds" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-140" y="402.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="CzA6qbHo2A6-y_BBXeDh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rOSCQlMySwnuyHpSkQuA-7" target="rOSCQlMySwnuyHpSkQuA-5">
+        <mxCell id="CzA6qbHo2A6-y_BBXeDh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rOSCQlMySwnuyHpSkQuA-7" target="rOSCQlMySwnuyHpSkQuA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-7" value="Interpreter&lt;br&gt;(Python and R)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -106,13 +106,13 @@
             <mxPoint x="-3" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-31" value="Crash, hangs, semi crashes found?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="375" width="220" height="90" as="geometry" />
+        <mxCell id="rOSCQlMySwnuyHpSkQuA-31" value="Crash, hangs, semi crashes, miscompilations and logical bugs found?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="342.5" width="220" height="155" as="geometry" />
         </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOSCQlMySwnuyHpSkQuA-38" target="rOSCQlMySwnuyHpSkQuA-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CzA6qbHo2A6-y_BBXeDh-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rOSCQlMySwnuyHpSkQuA-36">
+        <mxCell id="CzA6qbHo2A6-y_BBXeDh-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOSCQlMySwnuyHpSkQuA-36" vertex="1" connectable="0">
           <mxGeometry x="-0.2417" y="3" relative="1" as="geometry">
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
@@ -120,19 +120,22 @@
         <mxCell id="rOSCQlMySwnuyHpSkQuA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOSCQlMySwnuyHpSkQuA-38" target="rOSCQlMySwnuyHpSkQuA-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CzA6qbHo2A6-y_BBXeDh-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rOSCQlMySwnuyHpSkQuA-37">
+        <mxCell id="CzA6qbHo2A6-y_BBXeDh-5" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOSCQlMySwnuyHpSkQuA-37" vertex="1" connectable="0">
           <mxGeometry x="-0.4407" y="3" relative="1" as="geometry">
             <mxPoint x="5" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rOSCQlMySwnuyHpSkQuA-38" value="Is there time to report this?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="465.75" y="370" width="110" height="100" as="geometry" />
+        <mxCell id="rOSCQlMySwnuyHpSkQuA-38" value="&amp;nbsp;crashwalk will triage the bugs and help deciding which ones are reported first&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="470" y="285" width="155.75" height="270" as="geometry" />
         </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-39" value="Report it to relevant development team" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620.75" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rOSCQlMySwnuyHpSkQuA-40" value="Use crashwalk to see if the bug is a vulneribility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460.75" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="460.75" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ftJMKh0BDE4pn1SkjYPP-1" value="P" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
