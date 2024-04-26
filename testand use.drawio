@@ -1,9 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T11:41:25.634Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.0" etag="ih6tY_bKMUzTywsMWYVq" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T11:44:03.510Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2Lu9dT1Ywn8xXBmfX6eD" version="24.3.0" type="github">
   <diagram name="Page-1" id="RZ6-Jt5stmClvMsitnhd">
-    <mxGraphModel>
+    <mxGraphModel dx="1376" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Az_HFf0a57jYkDKePFdc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fontSize=19;" edge="1" parent="1" source="Az_HFf0a57jYkDKePFdc-1" target="Az_HFf0a57jYkDKePFdc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="350" />
+              <mxPoint x="520" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Az_HFf0a57jYkDKePFdc-1" value="Interpreters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Az_HFf0a57jYkDKePFdc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;fontSize=19;" edge="1" parent="1" source="Az_HFf0a57jYkDKePFdc-2" target="Az_HFf0a57jYkDKePFdc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="170" />
+              <mxPoint x="220" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Az_HFf0a57jYkDKePFdc-2" value="Templates" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Az_HFf0a57jYkDKePFdc-6" value="Multiple templates tested by the same interpreter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Az_HFf0a57jYkDKePFdc-7" value="Multiple interpreters tested by the same template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="150" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
