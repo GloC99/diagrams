@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T15:10:42.981Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Cx3Oxm5cRM7JKvVzVQQc" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T14:25:26.285Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-aNOzg2KEecZZLyduU-7" version="24.3.1" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
-    <mxGraphModel dx="619" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,26 +10,23 @@
         <mxCell id="21638" value="Fuzzing" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#736CA8;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=left;opacity=50;spacing=15;" parent="1" vertex="1">
           <mxGeometry x="166" y="164" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="21639" value="Test Case Generation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#12AAB5;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;spacing=15;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="260" y="300" width="250" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="21640" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Differential Fuzzing&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#AE4132;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=right;opacity=50;verticalAlign=middle;spacingBottom=15;spacing=15;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="160" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21653" value="MLighter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="345" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="164" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21654" value="GLADE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="405" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21655" value="&quot;no-fuzz&quot; Compiler Fuzzer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="430" y="340" width="61.62" height="80" as="geometry" />
+          <mxGeometry x="460" y="330" width="61.62" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21656" value="CRADLE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="480" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21657" value="LEMON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="480" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21658" value="MUFFIN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="345" y="260" width="70" height="50" as="geometry" />
@@ -38,7 +35,7 @@
           <mxGeometry x="220" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21660" value="Tensor-Fuzz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="320" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rc3WMZSxb1N_J2Q04BCS-21661" value="TitanFuzz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="60" height="30" as="geometry" />
